@@ -9,20 +9,21 @@ This is a simple calculator with GUI.
 
 <img src="flow.gif"/>  
 <br>
-<img src="cli.png"/>	
+<img src="cli.png"/>
 
+|                                      |                               |
+| :----------------------------------: | :---------------------------: |
+|    You can type from the keyboard    |  Можно печатать с клавиатуры  |
+|         You can enter spaces         |     Можно вводить пробелы     |
+| You can calculate fractional numbers | Можно вычислять дробные числа |
+|         You can use brackets         |   Можно использовать скобки   |
 
-|  |  |
-| :---:   | :---: |
-| You can type from the keyboard | Можно печатать с клавиатуры |
-| You can enter spaces   | Можно вводить пробелы |
-| You can calculate fractional numbers | Можно вычислять дробные числа   |
-| You can use brackets   | Можно использовать скобки |
 </div>
 
-Windows:
- ```
- ant
- ant package
- java -jar .\build\Calculator.jar
+🏁 Windows:
+
+```
+ant
+ant package
+java -jar .\build\Calculator.jar
 ```
