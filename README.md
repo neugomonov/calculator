@@ -4,20 +4,23 @@
 <h2>Information</h1>
 
 This is a simple calculator with GUI.
+
+<h2>Screenshots</h2>
+
+<img src="flow.gif"/>  
+<br>
+<img src="cli.png"/>	
+
+
+|  |  |
+| :---:   | :---: |
+| You can type from the keyboard | Можно печатать с клавиатуры |
+| You can enter spaces   | Можно вводить пробелы |
+| You can calculate fractional numbers | Можно вычислять дробные числа   |
+| You can use brackets   | Можно использовать скобки |
 </div>
 
-You can type from the keyboard  
-You can enter spaces  
-You can calculate fractional numbers  
-You can use brackets
-<div>
-____________________________________
-</div>
-
-Можно печатать с клавиатуры  
-Можно вводить пробелы  
-Можно вычислять дробные числа    
-Можно использовать скобки  
+Windows:
  ```
  ant
  ant package
