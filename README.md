@@ -3,7 +3,7 @@
 	🤖
 <h2>Information</h1>
 
-This is a simple calculator with GUI built for GNU/Linux operating systems.
+This is a simple calculator with GUI.
 </div>
 
 You can type from the keyboard  
