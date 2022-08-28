@@ -3,7 +3,8 @@
 	🤖
 <h2>Information</h1>
 
-This is a simple calculator with GUI.
+This is a simple calculator with GUI.  
+This one is better than Windows' standard built-in one. 🤪
 
 <h2>Screenshots</h2>
 
